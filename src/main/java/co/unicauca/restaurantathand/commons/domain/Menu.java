@@ -10,9 +10,10 @@ import java.util.List;
  *         Michel Andrea Gutierrez Vallejo
  *         Ximena Quijano Gutierrez
  *         Nathalia Ruiz Menses
+ * 
  */
 public class Menu {
-    
+    //
     private String atrIdMenu;
     private String atrNomMenu;
     private Date atrFecVimenu;
